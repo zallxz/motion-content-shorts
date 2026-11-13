@@ -1,0 +1,12 @@
+{
+  "name": "nonstop-motion",
+  "owner": { "name": "nonstop-motion" },
+  "plugins": [
+    {
+      "name": "nonstop-motion",
+      "source": "./",
+      "description": "Full-motion-graphics Reels/Shorts with a 3D world, cinematic shots and beat-synced music.",
+      "version": "1.0.0"
+    }
+  ]
+}

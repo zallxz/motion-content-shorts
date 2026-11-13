@@ -1,0 +1,12 @@
+{
+  "meta": { "title": "Kesan pertama 50ms", "theme": "paper", "tempo": "fast", "mascotName": "Blip" },
+  "beats": [
+    { "type": "hook", "text": "Desain lu dinilai *sebelum* lu kedip", "mascot": "shocked" },
+    { "type": "stat", "value": 50, "suffix": " ms", "label": "Waktu otak bikin kesan pertama soal sebuah halaman web" },
+    { "type": "statement", "text": "Kedipan mata aja *300 ms*.", "sub": "Jadi orang udah mutusin suka/nggak sebelum sempet baca.", "mascot": "think" },
+    { "type": "compare", "left": { "label": "Yang dikira penting", "text": "Isi tulisan yang panjang" }, "right": { "label": "Yang dinilai duluan", "text": "Warna, kontras, kerapian layout" }, "winner": "right" },
+    { "type": "list", "title": "3 hal yang kebaca dalam sekejap:", "items": ["Kontras warna", "Ruang kosong", "1 titik fokus"] },
+    { "type": "punch", "text": "Rapi dulu, keren belakangan." },
+    { "type": "cta", "text": "Save biar gak lupa", "button": "Save", "mascot": "happy" }
+  ]
+}

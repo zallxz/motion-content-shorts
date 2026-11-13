@@ -1,0 +1,11 @@
+{
+  "meta": { "title": "Deploy hari Jumat", "theme": "terminal", "tempo": "hyper", "mascotName": "Blip" },
+  "beats": [
+    { "type": "hook", "kicker": "Jumat 16:59", "text": "Deploy *dikit doang* kok", "mascot": "smug" },
+    { "type": "ui", "title": "prod — deploy", "lines": ["$ git push origin main", "> deploying v2.3.1 ...", "✗ 502 Bad Gateway", "✗ 502 Bad Gateway"], "status": "error" },
+    { "type": "chat", "them": "Bos", "messages": [ { "from": "them", "text": "Web kok mati?" }, { "from": "me", "text": "Lagi maintenance pak" }, { "from": "them", "text": "Maintenance apa?" } ] },
+    { "type": "dialog", "text": "Rollback. *Sekarang.*", "mascot": "angry" },
+    { "type": "punch", "text": "Jumat itu buat review, bukan deploy." },
+    { "type": "cta", "text": "Tag temen yang suka deploy Jumat", "button": "Tag", "mascot": "happy" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "meta": { "title": "Gaji naik, tabungan nggak", "theme": "editorial", "tempo": "fast", "mascot": false },
+  "beats": [
+    { "type": "hook", "text": "Gaji naik, tapi tabungan *segitu-gitu aja*?" },
+    { "type": "statement", "text": "Namanya *lifestyle creep*.", "sub": "Pengeluaran ikut naik diam-diam tiap pendapatan naik." },
+    { "type": "compare", "left": { "label": "Gaji (contoh)", "text": "Naik 20%" }, "right": { "label": "Pengeluaran", "text": "Ikut naik 25%" } },
+    { "type": "stat", "value": 0, "prefix": "Rp", "label": "Sisa tambahan yang beneran masuk tabungan" },
+    { "type": "list", "title": "Cara ngeremnya:", "items": ["Auto-transfer di *hari gajian*", "Naikin tabungan duluan, gaya hidup belakangan", "Tunda belanja besar 30 hari"] },
+    { "type": "punch", "text": "Bayar diri lu dulu." },
+    { "type": "cta", "text": "Kirim ke temen yang baru naik gaji", "button": "Share" }
+  ]
+}

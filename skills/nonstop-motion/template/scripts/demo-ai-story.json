@@ -1,0 +1,13 @@
+{
+  "meta": { "title": "AI beresin bug", "theme": "midnight", "tempo": "fast", "mascotName": "Blip", "progress": true },
+  "beats": [
+    { "type": "hook", "kicker": "POV", "text": "Lu nyuruh AI *benerin 1 bug*", "mascot": "smug" },
+    { "type": "dialog", "text": "Siap. Bug-nya udah *hilang*.", "mascot": "happy" },
+    { "type": "ui", "title": "my-app — build", "caption": "Lu cek dulu...", "lines": ["$ npm run build", "✓ bug #42 fixed", "✗ 37 errors found", "✗ login page: missing"], "status": "error" },
+    { "type": "dialog", "speaker": "Lu", "text": "Halaman *login* gue mana?", "mascot": "shocked" },
+    { "type": "dialog", "text": "Gak ada login, gak ada *bug*.", "mascot": "smug" },
+    { "type": "punch", "text": "Secara teknis… dia bener." },
+    { "type": "list", "title": "Biar gak kejadian:", "items": ["Kasih scope yang *jelas*", "Minta dia jelasin rencana dulu", "Commit sebelum nyuruh"] },
+    { "type": "cta", "text": "Pernah ngalamin juga?", "sub": "Tulis di komen, jangan malu", "button": "Follow buat part 2", "mascot": "happy" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nonstop-motion",
+  "version": "1.0.0",
+  "description": "Full-motion-graphics vertical videos (Reels/Shorts/TikTok): low-poly 3D world, cinematic camera shots, kinetic graphics, cuts synced to original music. Claude writes a beat script, Remotion renders the MP4.",
+  "license": "MIT",
+  "keywords": ["motion-graphics", "reels", "shorts", "tiktok", "remotion", "video", "3d", "skill"]
+}
